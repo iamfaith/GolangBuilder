@@ -6,6 +6,8 @@ RUN apk add --no-cache --update \
     wget \
     openssh-client 
 
+RUN go get golang.org/x/crypto/acme/autocert
+
 ENV HOME /root
 
 CMD ["/bin/sh"]
