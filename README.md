@@ -1,5 +1,6 @@
 # golangbuilder
 
+[![Build Status](https://travis-ci.org/iamfaith/GolangBuilder.svg?branch=master)](https://travis-ci.org/iamfaith/GolangBuilder)
 
 ## base on golang alpine
 
